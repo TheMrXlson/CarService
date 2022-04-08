@@ -7,6 +7,9 @@ target 'CarService' do
 
   # Pods for CarService
 pod 'SnapKit'
+pod 'Firebase/Analytics'
+pod 'Firebase/Auth'
+pod 'Firebase/Firestore'
   target 'CarServiceTests' do
     inherit! :search_paths
     # Pods for testing

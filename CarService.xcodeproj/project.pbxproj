@@ -19,6 +19,7 @@
 		D60EC50927FDC0DF006C2842 /* CarServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60EC50827FDC0DF006C2842 /* CarServiceTests.swift */; };
 		D60EC51327FDC0DF006C2842 /* CarServiceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60EC51227FDC0DF006C2842 /* CarServiceUITests.swift */; };
 		D60EC51527FDC0DF006C2842 /* CarServiceUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60EC51427FDC0DF006C2842 /* CarServiceUITestsLaunchTests.swift */; };
+		D6F06628280097B0005EDD0A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D6F06627280097B0005EDD0A /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		D60EC50E27FDC0DF006C2842 /* CarServiceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarServiceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D60EC51227FDC0DF006C2842 /* CarServiceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarServiceUITests.swift; sourceTree = "<group>"; };
 		D60EC51427FDC0DF006C2842 /* CarServiceUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarServiceUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D6F06627280097B0005EDD0A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		E1973E04880B85528E6E3174 /* Pods_CarService_CarServiceUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CarService_CarServiceUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -146,6 +148,7 @@
 				D60EC4FA27FDC0DF006C2842 /* Assets.xcassets */,
 				D60EC4FC27FDC0DF006C2842 /* LaunchScreen.storyboard */,
 				D60EC4FF27FDC0DF006C2842 /* Info.plist */,
+				D6F06627280097B0005EDD0A /* GoogleService-Info.plist */,
 			);
 			path = CarService;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D60EC4FE27FDC0DF006C2842 /* LaunchScreen.storyboard in Resources */,
+				D6F06628280097B0005EDD0A /* GoogleService-Info.plist in Resources */,
 				D60EC4FB27FDC0DF006C2842 /* Assets.xcassets in Resources */,
 				D60EC4F927FDC0DC006C2842 /* Main.storyboard in Resources */,
 			);
